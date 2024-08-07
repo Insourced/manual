@@ -6,10 +6,11 @@
 ## Introduction
 This is the offical game manual for Insourced Tussday. This document laysout the offical rules of Tuesday. It is permissable to create a duplicate of this document for personal use, Weather that be a preservation of older rulesets, or a document of home rules. This document features the following sections:
 
-    - I [Rules](#Rules)
-    - II [Specification](#Specification)
+    [Rules](#Rules)
+    [Specification](#Specification)
 
 Section I: Rules defines every aspect of how the game Tuesday is played.
+
 Section II: Specification defines the dimentions of a card, the rules of balancing, and everything else needed to ensure all offical cards created by Insourced Tuesday are balanced, standerized, and meet expectations.
 
 ## Rules
