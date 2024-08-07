@@ -6,8 +6,8 @@
 ## Introduction
 This is the offical game manual for Insourced Tussday. This document laysout the offical rules of Tuesday. It is permissable to create a duplicate of this document for personal use, Weather that be a preservation of older rulesets, or a document of home rules. This document features the following sections:
 
-    [Rules](#Rules)
-    [Specification](#Specification)
+[Rules](#Rules)
+[Specification](#Specification)
 
 Section I: Rules defines every aspect of how the game Tuesday is played.
 
